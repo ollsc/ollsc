@@ -2,6 +2,6 @@
 
 I am a beginner programmer learning Python, JS, and CSS.
 
-I am currently working on a ASCII-styled zombie simulation video game.
+I am currently working on a ASCII-styled apocalypse simulation video game.
 
 Contact me here: oliverwdchappell@gmail.com

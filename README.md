@@ -1,4 +1,4 @@
-## Hello everyone.
+## Hello everyone :)
 
 Welcome to my page! My name is ollsc, a programmer from Canada.
 

@@ -24,6 +24,6 @@ And more!
  
 ## Release Date?
 
-The release date will not be announced until 6 months prior to the beta. Alongside the Beta and 1.0 release date will be the title of the game.
+The release date will not be announced until 6 months prior to the beta. Alongside the beta and 1.0 release date will be the title of the game.
 
 

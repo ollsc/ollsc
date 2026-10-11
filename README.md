@@ -8,11 +8,17 @@ I'm currently developing a text-based survival RPG built around realism, consequ
 
 ## Core features?
  -Permadeath
+ 
  -Ironman mode
+ 
  -Real world realism
+ 
  -Skill/Perk progression
+ 
  -In depth character creation system
+ 
  -Storytelling AI
+
 
 And more!!!
  
